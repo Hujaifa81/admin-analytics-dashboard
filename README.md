@@ -1,4 +1,4 @@
-# AppifyDevs — Admin Analytics Dashboard
+# Admin Analytics Dashboard
 
 Live demo: [Live Link](https://appify-devs-frontend-assignment.vercel.app)
 
